@@ -1,4 +1,9 @@
 {
-  "DB_NAME": "hetolu",
+  "env": {
+    "DB_NAME": {
+      "description": "The name of the database",
+      "required": true
+    }
+  },
   "BOT_NAME": "SHAHJAHAN MD BOT"
 }
